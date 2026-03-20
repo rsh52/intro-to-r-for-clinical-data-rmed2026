@@ -8,6 +8,6 @@ title: "About"
 
 [**Rich Hanna, MS**](https://www.linkedin.com/in/richard-hanna-ms-0164162a/) (he/him) is a the Data Science Manager of the Cell and Gene Therapy Informatics Team at the Children’s Hospital of Philadelphia. He develops software tools and data-driven solutions to support cell therapy research and enhance patient care in pediatric medicine. Rich has a background in biomedical and mechanical engineering and specializes in automating clinical research workflows through advanced analytics and machine learning. He is passionate about leveraging data science to streamline healthcare operations and improve patient outcomes.
 
-![](fig-alt="Headshot of Ezra Porter" width="200")
+![](images/ezra-headshot.jpg){style="float:right;padding: 0 0 0 10px;" fig-alt="Headshot of Ezra Porter" width="200"}
 
-[Ezra Porter](https://www.linkedin.com/in/ezraporter/) (he/him) is a lead Data Scientist with the Cell and Gene Therapy Informtics Team at the Children's Hospital of Philadelphia
+[**Ezra Porter, MS**](https://www.linkedin.com/in/ezraporter/) (he/him) is a lead Data Scientist on the Cell and Gene Therapy Informatics team at the Children's Hospital of Philadelphia. His background is in statistics, but his work spans model development to application design.

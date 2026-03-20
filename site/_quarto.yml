@@ -11,10 +11,10 @@ website:
       - href: about.qmd
         text: About
     right:
-      - text: "R/Medicine 2025"
+      - text: "R/Medicine 2026"
         href: https://rconsortium.github.io/RMedicine_website/
       - icon: github
-        href: https://github.com/skadauke/intro-to-r-for-clinical-data-rmed2025/
+        href: https://github.com/rsh52/intro-to-r-for-clinical-data-rmed2026
         aria-label: GitHub
 
 format:

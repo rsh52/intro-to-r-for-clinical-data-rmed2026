@@ -1,0 +1,1 @@
+Sitemap: https://hannar1.quarto.pub/rmedicine-101-intro-to-r-for-clinical-data/sitemap.xml

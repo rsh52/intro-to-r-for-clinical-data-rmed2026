@@ -39,7 +39,7 @@ The entire course will be recorded and made available to registered R/Medicine 2
 
 -   Install the latest version of [Zoom](https://zoom.us/download).
 -   Install the latest version of [Google Chrome](https://www.google.com/chrome/).
--   We may need to use Posit Cloud as a backup training environment. Please sign up for a free account [here](https://posit.cloud/.
+-   We may need to use Posit Cloud as a backup training environment. Please sign up for a free account [here](https://posit.cloud/).
 -   We want to provide a welcoming and supportive learning environment for everyone. To help us do so, please take a look at our [code of conduct](https://events.linuxfoundation.org/r-medicine/attend/code-of-conduct/).
 
 ### Optional (but highly recommended)
